@@ -1,0 +1,14 @@
+/* Standard Sizes */
+--button-height: 40px;
+--button-width: 100px;
+--textbox-height: 30px;
+
+--font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+--font-size: 14px;
+--font-size-large: 18px;
+
+--default-padding: 10px;
+--default-margin: 10px;
+/* Border Styles */
+--default-border: 1px solid #dee2e6;
+--button-border-radius: 4px;
